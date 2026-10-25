@@ -51,6 +51,7 @@ I'm an AI/ML & Software Engineer passionate about building scalable software sys
     width="370"
     alt="My animated avatar"
     style="margin-top: -75px;"
+    loading="eager"
   />
 </td>
 </tr>
